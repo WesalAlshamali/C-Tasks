@@ -1,0 +1,7 @@
+C:\Users\Coding School\Desktop\C-sharpa-Tasks\Task3\Task3\bin\Debug\Task3.exe.config
+C:\Users\Coding School\Desktop\C-sharpa-Tasks\Task3\Task3\bin\Debug\Task3.exe
+C:\Users\Coding School\Desktop\C-sharpa-Tasks\Task3\Task3\bin\Debug\Task3.pdb
+C:\Users\Coding School\Desktop\C-sharpa-Tasks\Task3\Task3\obj\Debug\Task3.csproj.AssemblyReference.cache
+C:\Users\Coding School\Desktop\C-sharpa-Tasks\Task3\Task3\obj\Debug\Task3.csproj.CoreCompileInputs.cache
+C:\Users\Coding School\Desktop\C-sharpa-Tasks\Task3\Task3\obj\Debug\Task3.exe
+C:\Users\Coding School\Desktop\C-sharpa-Tasks\Task3\Task3\obj\Debug\Task3.pdb

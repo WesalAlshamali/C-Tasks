@@ -1,0 +1,7 @@
+C:\Users\Coding School\Desktop\C-sharpa-Tasks\task5\task5\bin\Debug\task5.exe.config
+C:\Users\Coding School\Desktop\C-sharpa-Tasks\task5\task5\bin\Debug\task5.exe
+C:\Users\Coding School\Desktop\C-sharpa-Tasks\task5\task5\bin\Debug\task5.pdb
+C:\Users\Coding School\Desktop\C-sharpa-Tasks\task5\task5\obj\Debug\task5.csproj.AssemblyReference.cache
+C:\Users\Coding School\Desktop\C-sharpa-Tasks\task5\task5\obj\Debug\task5.csproj.CoreCompileInputs.cache
+C:\Users\Coding School\Desktop\C-sharpa-Tasks\task5\task5\obj\Debug\task5.exe
+C:\Users\Coding School\Desktop\C-sharpa-Tasks\task5\task5\obj\Debug\task5.pdb
